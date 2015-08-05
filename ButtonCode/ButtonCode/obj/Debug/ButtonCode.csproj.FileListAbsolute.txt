@@ -1,0 +1,10 @@
+C:\Users\Oscar\Downloads\ButtonCode\ButtonCode\ButtonCode\bin\Debug\ButtonCode.dll
+C:\Users\Oscar\Downloads\ButtonCode\ButtonCode\ButtonCode\bin\Debug\ButtonCode.pdb
+C:\Users\Oscar\Downloads\ButtonCode\ButtonCode\ButtonCode\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Oscar\Downloads\ButtonCode\ButtonCode\ButtonCode\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Oscar\Downloads\ButtonCode\ButtonCode\ButtonCode\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Oscar\Downloads\ButtonCode\ButtonCode\ButtonCode\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Oscar\Downloads\ButtonCode\ButtonCode\ButtonCode\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Oscar\Downloads\ButtonCode\ButtonCode\ButtonCode\obj\Debug\ButtonCode.csprojResolveAssemblyReference.cache
+C:\Users\Oscar\Downloads\ButtonCode\ButtonCode\ButtonCode\obj\Debug\ButtonCode.dll
+C:\Users\Oscar\Downloads\ButtonCode\ButtonCode\ButtonCode\obj\Debug\ButtonCode.pdb
